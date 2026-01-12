@@ -8,7 +8,8 @@ accounts:
   contactDetails:
     name: "EazyBanks - PROD SUPPORT l1 l2"
     url: "https://www.eazybank.com"
-    email: "support-PROD-@eazybank.com"
+    email: "{cipher}e8c32c6b97f61e6f1d5d8894d9d90ea18ac29b5760d8fc063ca18508309b7141c6e4e67d1e9b35baa2c0671da53877e5"
   onCallSupport:
     - (555)1234567890
     - (555)9876543210
+
