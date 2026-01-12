@@ -4,7 +4,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank Accounts Prod Microservice"
+  message: "Welcome to EazyBank Accounts prodcution Microservice"
   contactDetails:
     name: "EazyBanks - PROD SUPPORT l1 l2"
     url: "https://www.eazybank.com"
@@ -12,4 +12,5 @@ accounts:
   onCallSupport:
     - (555)1234567890
     - (555)9876543210
+
 
