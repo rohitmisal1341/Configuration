@@ -1,0 +1,14 @@
+
+build:
+  version: "3.0"
+
+
+cards:
+  message: "Welcome to EazyBank cards Microservice"
+  contactDetails:
+    name: "EazyBanks - Developers"
+    url: "https://www.eazybank.com"
+    email: "support@eazybank.com"
+  onCallSupport:
+    - (555)1234567890
+    - (555)9876543210

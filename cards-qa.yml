@@ -1,0 +1,10 @@
+
+cards:
+  message: "Welcome to EazyBank CARDS QA Microservice"
+  contactDetails:
+    name: "EazyBanks - QA TEAM "
+    url: "https://www.eazybank.com"
+    email: "support-QA@eazybank.com"
+  onCallSupport:
+    - (555)1234567890
+    - (555)9876543210

@@ -1,0 +1,14 @@
+
+build:
+  version: "3.0"
+
+
+accounts:
+  message: "Welcome to EazyBank Accounts QA Microservice"
+  contactDetails:
+    name: "EazyBanks - QA TEAM "
+    url: "https://www.eazybank.com"
+    email: "support-QA@eazybank.com"
+  onCallSupport:
+    - (555)1234567890
+    - (555)9876543210

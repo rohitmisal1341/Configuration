@@ -1,0 +1,14 @@
+
+build:
+  version: "4.0"
+
+
+accounts:
+  message: "Welcome to EazyBank Accounts local Microservice"
+  contactDetails:
+    name: "EazyBanks - Developers"
+    url: "https://www.eazybank.com"
+    email: "support@eazybank.com"
+  onCallSupport:
+    - (555)1234567890
+    - (555)9876543210
