@@ -4,7 +4,7 @@ build:
 
 
 cards:
-  message: "Welcome to EazyBank CARDS prodcution rabbit Microservice"
+  message: "Welcome to EazyBank CARDS prodcution Microservice"
   contactDetails:
     name: "EazyBanks - PROD SUPPORT l1 l2"
     url: "https://www.eazybank.com"
@@ -12,5 +12,6 @@ cards:
   onCallSupport:
     - (555)1234567890
     - (555)9876543210
+
 
 
