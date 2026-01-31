@@ -1,4 +1,7 @@
 
+build:
+  version: "3.0"
+
 cards:
   message: "Welcome to EazyBank CARDS QA Microservice"
   contactDetails:
@@ -8,3 +11,4 @@ cards:
   onCallSupport:
     - (555)1234567890
     - (555)9876543210
+
